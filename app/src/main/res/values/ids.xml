@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="email" type="id">Email Field</item>
+    <item name="password" type="id">Password Field</item>
+    <item name="phone" type="id">Phone Field</item>
+</resources>

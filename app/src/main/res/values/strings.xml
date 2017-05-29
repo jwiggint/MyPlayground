@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Playground</string>
+    <string name="moreMinions">See More Minions</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="activated">Activated</string>
+    <string name="deactivated">Deactivated</string>
+    <string name="setting">Setting1</string>
+    <string name="password">Password</string>
+</resources>
